@@ -43,6 +43,6 @@ I have experience in C/C++ programming, where I have designed and implemented hi
   <a href="https://github.com/edissondiaz47" target="_blank">
     <img align="center" src="https://github.com/EdissonDiaz47/EdissonDiaz47/blob/55d6562a5498bb293913e4fd6f973bac846342d9/Iconos/github.png" alt="github" height="50" width="50" />
   </a>
-  <a href="https://t.me/@EdissonDiaz" target="_blank">
+  <a href="https://t.me/EdissonDiaz" target="_blank">
     <img align="center" src="https://github.com/EdissonDiaz47/EdissonDiaz47/blob/55d6562a5498bb293913e4fd6f973bac846342d9/Iconos/telegrama.png" alt="telegram" height="50" width="50" />
   </a>
