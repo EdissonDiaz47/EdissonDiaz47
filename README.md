@@ -33,3 +33,5 @@ I have experience in C/C++ programming, where I have designed and implemented hi
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> DataBase</b>
 [![My Skills](https://skillicons.dev/icons?i=docker,postgres,mysql&perline=3)](https://skillicons.dev)
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me!!
